@@ -1,4 +1,4 @@
-# qiankun-study
+# qiankun之single-spa
 ## 乾坤微实践
 single-spa
 2018年 Single-SPA诞生了， single-spa 是一个用于前端微服务化的 JavaScript 前端解决
